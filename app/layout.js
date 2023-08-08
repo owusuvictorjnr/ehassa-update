@@ -1,7 +1,12 @@
 import './globals.css'
-import { Inter } from 'next/font/google'
+import { Poppins } from 'next/font/google'
+import Header from '@/components/Header'
+import Footer from '@/components/Footer'
 
-const inter = Inter({ subsets: ['latin'] })
+const inter = Poppins({
+  weight: ['400', '700'],
+  subsets: ['latin'],
+})
 
 export const metadata = {
   title: 'Create Next App',
@@ -10,12 +15,14 @@ export const metadata = {
 
 export default function RootLayout({ children }) {
   return (
-    <>
-      <div>
-        <nav></nav>
-        <main>{children}</main>
-        <footer></footer>
-      </div>
-    </>
+    <html lang="en">
+      <body
+        className={`Poppin flex flex-col justify-between min-h-screen`}
+      >
+        <Header />
+        <main className="container">{children}</main>
+        <Footer />
+      </body>
+    </html>
   )
 }
