@@ -20,7 +20,7 @@ export default function RootLayout({ children }) {
         className={`Poppin flex flex-col justify-between min-h-screen`}
       >
         <Header />
-        <main className="container">{children}</main>
+        <main className="">{children}</main>
         <Footer />
       </body>
     </html>
