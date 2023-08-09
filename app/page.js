@@ -5,7 +5,7 @@ import HomeItems from '@/components/HomeItems'
 const HomePage = () => {
   return (
     <layout>
-      <div>
+      <div title="home">
         <HomeItems />
       </div>
     </layout>
