@@ -1,0 +1,465 @@
+{
+  "cs": {
+    "slug": "ce",
+    "programmes": "computer science",
+    "logo": "/logo/CESSA.png",
+    "courses": [
+      "python\n",
+      "networking",
+      "java",
+      "c",
+      "database management system",
+      "artificial inteligence",
+      "data science",
+      "web tech",
+      "cyber security",
+      "engineering maths"
+    ],
+    "executives": [
+      {
+        "name": "owusu victor",
+        "image": "/images/main.jpg",
+        "position": "president"
+      },
+      {
+        "name": "michillina",
+        "image": "/images/main.jpg",
+        "position": "vice president"
+      },
+
+      {
+        "name": "eben",
+        "image": "/images/main.jpg",
+        "position": "organizer"
+      },
+
+      {
+        "name": "odikro",
+        "image": "/images/main.jpg",
+        "position": "portal"
+      },
+
+      {
+        "name": "dr oware",
+        "image": "/images/main.jpg",
+        "position": "H.O.D"
+      },
+
+      {
+        "name": "mr. danso",
+        "image": "/images/main.jpg",
+        "position": "assistant H.O.D"
+      },
+
+      {
+        "name": "mr. ralph",
+        "image": "/images/main.jpg",
+        "position": "patron"
+      },
+
+      {
+        "name": "mr. ampadu",
+        "image": "/images/main.jpg",
+        "position": "assistant patron"
+      }
+    ],
+    "associations": [
+      "google developer student clubs",
+      "huawei ICT academy",
+      "microsoft student academy",
+      "ingressive for good",
+      "computer science & engineering association of ghana"
+    ]
+  },
+  "ce": {
+    "slug": "ce",
+    "programmes": "computer engineering",
+    "logo": "/logo/CESSA.png",
+    "courses": [
+      "engineering math",
+      "networking",
+      "java",
+      "c",
+      "database management system",
+      "artificial inteligence",
+      "data science",
+      "web tech",
+      "cyber security",
+      "engineering maths"
+    ],
+    "executives": [
+      {
+        "name": "owusu victor",
+        "image": "/images/main.jpg",
+        "position": "president"
+      },
+      {
+        "name": "michillina",
+        "image": "/images/main.jpg",
+        "position": "vice president"
+      },
+
+      {
+        "name": "eben",
+        "image": "/images/main.jpg",
+        "position": "organizer"
+      },
+
+      {
+        "name": "odikro",
+        "image": "/images/main.jpg",
+        "position": "portal"
+      },
+
+      {
+        "name": "dr oware",
+        "image": "/images/main.jpg",
+        "position": "H.O.D"
+      },
+
+      {
+        "name": "mr. danso",
+        "image": "/images/main.jpg",
+        "position": "assistant H.O.D"
+      },
+
+      {
+        "name": "mr. ralph",
+        "image": "/images/main.jpg",
+        "position": "patron"
+      },
+
+      {
+        "name": "mr. ampadu",
+        "image": "/images/main.jpg",
+        "position": "assistant patron"
+      }
+    ],
+    "associations": [
+      "google developer student clubs",
+      "huawei ICT academy",
+      "microsoft student academy",
+      "ingressive for good",
+      "computer science & engineering association of ghana"
+    ]
+  },
+  "bme": {
+    "slug": "bme",
+    "programmes": "biomedical engineering",
+    "courses": [
+      "image processing",
+      "networking",
+      "java",
+      "c",
+      "database management system",
+      "artificial inteligence",
+      "data science",
+      "web tech",
+      "cyber security"
+    ],
+    "executives": [
+      {
+        "name": "Miss Patricia Bonsi",
+        "image": "/images/main.jpg",
+        "position": "president"
+      },
+      {
+        "name": "Mr. Samuel Oteng Dapaah ",
+        "image": "/images/main.jpg",
+        "position": "vice president"
+      },
+
+      {
+        "name": "Miss Georgina Antwi",
+        "image": "/images/main.jpg",
+        "position": "Secretary"
+      },
+
+      {
+        "name": "Miss Mayfair Owusu-Mensah Boahin",
+        "image": "/images/main.jpg",
+        "position": "Financial secretary"
+      },
+
+      {
+        "name": "Miss Nana Aba Mensah",
+        "image": "/images/main.jpg",
+        "position": "Organizer"
+      },
+
+      {
+        "name": " Mr. John Delali Yekple",
+        "image": "/images/main.jpg",
+        "position": "Assistant Organizer"
+      },
+
+      {
+        "name": "Miss Josephine Owusu ",
+        "image": "/images/main.jpg",
+        "position": "P.R.O"
+      },
+
+      {
+        "name": "dr oware",
+        "image": "/images/main.jpg",
+        "position": "H.O.D"
+      },
+
+      {
+        "name": "mr. danso",
+        "image": "/images/main.jpg",
+        "position": "assistant H.O.D"
+      },
+
+      {
+        "name": "mr. ralph",
+        "image": "/images/main.jpg",
+        "position": "patron"
+      },
+
+      {
+        "name": "mr. ampadu",
+        "image": "/images/main.jpg",
+        "position": "assistant patron"
+      }
+    ],
+    "associations": [
+      "google developer student clubs",
+      "huawei ICT academy",
+      "microsoft student academy",
+      "ingressive for good",
+      "computer science & engineering association of ghana"
+    ]
+  },
+  "nursing": {
+    "slug": "nursing",
+    "programmes": "nursing",
+    "logo": "/logo/SBASH.png",
+    "courses": [
+      "human anatomy",
+      "networking",
+      "java",
+      "c",
+      "database management system",
+      "artificial inteligence",
+      "data science",
+      "web tech",
+      "cyber security"
+    ],
+    "executives": [
+      {
+        "name": "michael",
+        "image": "/images/main.jpg",
+        "position": "president"
+      },
+      {
+        "name": "rose",
+        "image": "/images/main.jpg",
+        "position": "vice president"
+      },
+
+      {
+        "name": "eben",
+        "image": "/images/main.jpg",
+        "position": "organizer"
+      },
+
+      {
+        "name": "odikro",
+        "image": "/images/main.jpg",
+        "position": "portal"
+      },
+
+      {
+        "name": "dr oware",
+        "image": "/images/main.jpg",
+        "position": "H.O.D"
+      },
+
+      {
+        "name": "mr. danso",
+        "image": "/images/main.jpg",
+        "position": "assistant H.O.D"
+      },
+
+      {
+        "name": "mr. ralph",
+        "image": "/images/main.jpg",
+        "position": "patron"
+      },
+
+      {
+        "name": "mr. ampadu",
+        "image": "/images/main.jpg",
+        "position": "assistant patron"
+      }
+    ],
+    "associations": [
+      "google developer student clubs",
+      "huawei ICT academy",
+      "microsoft student academy",
+      "ingressive for good",
+      "computer science & engineering association of ghana"
+    ]
+  },
+  "og": {
+    "slug": "og",
+    "programmes": "oil & gas",
+    "logo": "/logo/spelogo.png",
+    "courses": [
+      "earth drilling",
+      "networking",
+      "java",
+      "c",
+      "database management system",
+      "artificial inteligence",
+      "data science",
+      "web tech",
+      "cyber security"
+    ],
+    "executives": [
+      {
+        "name": "diana agiba",
+        "image": "/images/main.jpg",
+        "position": "president"
+      },
+      {
+        "name": " Adamu Saka Abdul Shakur",
+        "image": "/images/main.jpg",
+        "position": "vice president"
+      },
+
+      {
+        "name": "Clement Mantey Annor",
+        "image": "/images/main.jpg",
+        "position": "organizer"
+      },
+
+      {
+        "name": "Marilyn Yasmine Addison",
+        "image": "/images/main.jpg",
+        "position": "secretary"
+      },
+
+      {
+        "name": "Seth Kennedy Nabile",
+        "image": "/images/main.jpg",
+        "position": "Public Relations Officer"
+      },
+
+      {
+        "name": " Sande Solomon",
+        "image": "/images/main.jpg",
+        "position": "Program`s Chairperson"
+      },
+
+      {
+        "name": "Holarli Eric ",
+        "image": "/images/main.jpg",
+        "position": "Treasurer"
+      },
+
+      {
+        "name": "dr oware",
+        "image": "/images/main.jpg",
+        "position": "H.O.D"
+      },
+
+      {
+        "name": "mr. danso",
+        "image": "/images/main.jpg",
+        "position": "assistant H.O.D"
+      },
+
+      {
+        "name": "mr. ralph",
+        "image": "/images/main.jpg",
+        "position": "patron"
+      },
+
+      {
+        "name": "mr. ampadu",
+        "image": "/images/main.jpg",
+        "position": "assistant patron"
+      }
+    ],
+    "associations": [
+      "google developer student clubs",
+      "huawei ICT academy",
+      "microsoft student academy",
+      "ingressive for good",
+      "computer science & engineering association of ghana"
+    ]
+  },
+  "ece": {
+    "slug": "ece",
+    "programmes": "electronic & comm engineering",
+    "logo": "/logo/ECE.png",
+    "courses": [
+      "mtn",
+      "networking",
+      "java",
+      "c",
+      "database management system",
+      "artificial inteligence",
+      "data science",
+      "web tech",
+      "cyber security"
+    ],
+    "executives": [
+      {
+        "name": "ralph",
+        "image": "/images/main.jpg",
+        "position": "president"
+      },
+      {
+        "name": "abigail",
+        "image": "/images/main.jpg",
+        "position": "vice president"
+      },
+
+      {
+        "name": "eben",
+        "image": "/images/main.jpg",
+        "position": "organizer"
+      },
+
+      {
+        "name": "odikro",
+        "image": "/images/main.jpg",
+        "position": "portal"
+      },
+
+      {
+        "name": "dr oware",
+        "image": "/images/main.jpg",
+        "position": "H.O.D"
+      },
+
+      {
+        "name": "mr. danso",
+        "image": "/images/main.jpg",
+        "position": "assistant H.O.D"
+      },
+
+      {
+        "name": "mr. ralph",
+        "image": "/images/main.jpg",
+        "position": "patron"
+      },
+
+      {
+        "name": "mr. ampadu",
+        "image": "/images/main.jpg",
+        "position": "assistant patron"
+      }
+    ],
+    "associations": [
+      "google developer student clubs",
+      "huawei ICT academy",
+      "microsoft student academy",
+      "ingressive for good",
+      "computer science & engineering association of ghana"
+    ]
+  }
+}
