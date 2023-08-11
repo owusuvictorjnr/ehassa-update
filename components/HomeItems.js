@@ -14,7 +14,7 @@ import { BsArrowRight } from 'react-icons/bs'
 const HomeItems = () => {
   return (
     <>
-      <div className="" title={'home'}>
+      <div className="">
         <div className="mt-[3rem] md:mt-[3rem]">
           <div className="sticky z-50 top-[4rem] md:top-[2rem] text-blue-900 text-sm text-center  md:text-xl lg:text-3xl">
             <SubHeaders
@@ -34,19 +34,20 @@ const HomeItems = () => {
           />
         </div>
 
-        {/* Departmenets */}
+        {/* Departments */}
         <div className="sticky z-50 top-[3rem] text-blue-900 text-sm text-center md:text-xl lg:text-3xl">
           <SubHeaders label="our departments " />
         </div>
         <div className="grid grid-cols-1 gap-10 mb-5 mt-[1rem] rounded-lg px-[1rem] pb-5 mx-auto  lg:pl-[3rem] lg:grid-cols-3 md:grid-cols-2">
-          {myData.homeScreens.map((departmenet, _index) => {
+          {myData.homeScreens.map((department, _index) => {
             return (
+              
               // eslint-disable-next-line react/jsx-key
               <div className="">
-                <Link href={`/departmenet/${departmenet.slug}`} className="">
+                <Link href={`/department/${department.slug}`} className="">
                   <Image
-                    src={departmenet.image}
-                    alt={departmenet.name}
+                    src={department.image}
+                    alt={department.name}
                     className="rounded-md h-[25rem] w-[35rem] mb-5 mt[3rem]  "
                     height="1000"
                     width="1000"
@@ -56,7 +57,7 @@ const HomeItems = () => {
                   className="texr-2xl text-black flex justify-center capitalize "
                   key={_index.slug}
                 >
-                  {departmenet.name}
+                  {department.name}
                 </div>
                 <div className="flex justify-center">
                   <button
